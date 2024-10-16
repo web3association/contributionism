@@ -6,9 +6,9 @@ The term contributionism has already been used within other books and resources 
 
 Contributionism is focused on the organisation. Contributions represent the beating heart of every organisation.
 
-Under contributionism, all contributions would be identified, measured and rewarded. Contributions are used to determine how an organisation is owned, governed and incentivised.
+Under contributionism, contributions should be invited, properly measured and fairly rewarded. Contributions are used to determine how an organisation is owned, governed and incentivised.
 
-Organisations could include small businesses, large corporations, community projects or even local clubs. Any group of people that come together around a shared purpose could benefit from adopting contributionist principles in their organisation.
+Organisations could include small businesses, large corporations, community projects or even local clubs. Any person or group of people that come together around a shared purpose could benefit from adopting contributionist principles in their organisation.
 
 
 
@@ -20,30 +20,30 @@ The following contributions are either essential or often highly valuable to an 
 
 **Labour**
 
-Labour includes any of the work, skills or expertise that can help with creating and operating an organisation. Labour could be creative, physical, intellectual or social. These four types of labour are covered in more detail below.
+Labour includes any of the work, skills and expertise that is involved with creating and operating an organisation. Labour could be creative, physical, intellectual or social. These four types of labour are covered in more detail below.
 
 
 
 **Capital**
 
-Organisations can benefit from capital investments at different stages of an organisation. Capital could be used to help start an organisation or it could also help with maintenance or growth. Some common types of capital that can be beneficial to an organisation include:
+Capital investment can be highly beneficial to organisations at different stages of their development. Capital could be used to help start an organisation or it could help with its maintenance and growth. Some common types of capital that can be beneficial for organisations include:
 
-* **Financial capital** - Financial assets such as fiat currencies, gold or Web3 currencies.
+* **Financial capital** - Financial assets such as fiat currencies, gold or cryptocurrencies.
 * **Physical capital** - Physical assets such as buildings, machinery, vehicles or electronics.
 * **Intellectual capital** - Intellectual assets such as patents, trademarks, copyrights or proprietary technology.
-* **Social capital** - Encompasses networks, relationships and social structures that can help with facilitating cooperation and economic transactions.
+* **Social capital** - Networks, relationships and social structures that can help with facilitating cooperation and economic transactions.
 
 
 
 **Consumption**
 
-In a market economy, consumption is the purchase of products or services. This is a consumer based contribution. Consumer purchases that generate revenue and profit for an organisation are often required for many organisations to survive over the long term. In other types of economy, such as those that are based on gifting or that are needs and access based, consumption is still a form of contribution as the demand for a product or service will still have an influence on determining whether more labour or resources gets directed towards certain organisations over others.
+In a market economy, consumption is the purchasing of goods or services. This is a consumer based contribution. Consumer purchases that generate profit for an organisation are often required for many organisations to survive over the long term. In other economy structures, such as those that are based on gifting, needs or that are access based, consumption is still a form of contribution as the demand for a good or service will still have an influence on determining whether more labour and resources get directed towards certain organisations over others.
 
 
 
 **Donation**
 
-People might make donations to certain organisations to help them with achieving their mission and goals. Donations can help with paying for an organisations operational costs. Donations can be an important contribution for sustaining not-for-profit and charity based organisations.
+People might make donations to certain organisations to help them with achieving their mission and goals. Donations can be an important contribution for sustaining not-for-profit and charity based organisations.
 
 
 
