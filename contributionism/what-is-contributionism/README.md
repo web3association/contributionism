@@ -37,7 +37,7 @@ Capital investment can be highly beneficial to organisations at different stages
 
 **Consumption**
 
-In a market economy, consumption is the purchasing of goods or services. This is a consumer based contribution. Consumer purchases that generate profit for an organisation are often required for many organisations to survive over the long term. In other economy structures, such as those that are based on gifting, needs or that are access based, consumption is still a form of contribution as the demand for a good or service will still have an influence on determining whether more labour and resources get directed towards certain organisations over others.
+In a market economy, consumption is the purchasing of goods or services. This is a consumer based contribution. Consumer purchases that generate profit for an organisation are often required for many organisations to survive over the long term. In other economic structures, such as those that are based on gifting, needs or that are access based, consumption is still a form of contribution as the demand for a good or service will still have an influence on determining whether more labour and resources get directed towards certain organisations over others.
 
 
 
