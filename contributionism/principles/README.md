@@ -12,4 +12,8 @@ description: A list of principles for contributionism
 [permanent-record-of-contribution.md](permanent-record-of-contribution.md)
 {% endcontent-ref %}
 
+{% content-ref url="contribution-and-community-based-ownership.md" %}
+[contribution-and-community-based-ownership.md](contribution-and-community-based-ownership.md)
+{% endcontent-ref %}
+
 More coming soon.
