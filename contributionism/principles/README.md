@@ -16,4 +16,8 @@ description: A list of principles for contributionism
 [contribution-and-community-based-ownership.md](contribution-and-community-based-ownership.md)
 {% endcontent-ref %}
 
+{% content-ref url="temporary-governance-rights.md" %}
+[temporary-governance-rights.md](temporary-governance-rights.md)
+{% endcontent-ref %}
+
 More coming soon.
