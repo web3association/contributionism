@@ -20,4 +20,8 @@ description: A list of principles for contributionism
 [temporary-governance-rights.md](temporary-governance-rights.md)
 {% endcontent-ref %}
 
+{% content-ref url="temporary-incentive-rights.md" %}
+[temporary-incentive-rights.md](temporary-incentive-rights.md)
+{% endcontent-ref %}
+
 More coming soon.
