@@ -24,4 +24,8 @@ description: A list of principles for contributionism
 [temporary-incentive-rights.md](temporary-incentive-rights.md)
 {% endcontent-ref %}
 
+{% content-ref url="transparent-priorities.md" %}
+[transparent-priorities.md](transparent-priorities.md)
+{% endcontent-ref %}
+
 More coming soon.
