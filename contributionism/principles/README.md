@@ -28,4 +28,8 @@ description: A list of principles for contributionism
 [transparent-priorities.md](transparent-priorities.md)
 {% endcontent-ref %}
 
+{% content-ref url="collectively-accepted-leadership.md" %}
+[collectively-accepted-leadership.md](collectively-accepted-leadership.md)
+{% endcontent-ref %}
+
 More coming soon.

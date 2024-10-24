@@ -13,3 +13,4 @@
   * [Temporary governance rights](contributionism/principles/temporary-governance-rights.md)
   * [Temporary incentive rights](contributionism/principles/temporary-incentive-rights.md)
   * [Transparent priorities](contributionism/principles/transparent-priorities.md)
+  * [Collectively accepted leadership](contributionism/principles/collectively-accepted-leadership.md)
