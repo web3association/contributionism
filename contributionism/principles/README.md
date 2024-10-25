@@ -32,4 +32,8 @@ description: A list of principles for contributionism
 [collectively-accepted-leadership.md](collectively-accepted-leadership.md)
 {% endcontent-ref %}
 
+{% content-ref url="equal-opportunity.md" %}
+[equal-opportunity.md](equal-opportunity.md)
+{% endcontent-ref %}
+
 More coming soon.

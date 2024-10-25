@@ -14,3 +14,4 @@
   * [Temporary incentive rights](contributionism/principles/temporary-incentive-rights.md)
   * [Transparent priorities](contributionism/principles/transparent-priorities.md)
   * [Collectively accepted leadership](contributionism/principles/collectively-accepted-leadership.md)
+  * [Equal opportunity](contributionism/principles/equal-opportunity.md)
