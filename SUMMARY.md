@@ -15,3 +15,4 @@
   * [Transparent priorities](contributionism/principles/transparent-priorities.md)
   * [Collectively accepted leadership](contributionism/principles/collectively-accepted-leadership.md)
   * [Equal opportunity](contributionism/principles/equal-opportunity.md)
+  * [Cooperative & competitive environments](contributionism/principles/cooperative-and-competitive-environments.md)
