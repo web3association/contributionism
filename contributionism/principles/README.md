@@ -36,4 +36,6 @@ description: A list of principles for contributionism
 [equal-opportunity.md](equal-opportunity.md)
 {% endcontent-ref %}
 
-More coming soon.
+{% content-ref url="cooperative-and-competitive-environments.md" %}
+[cooperative-and-competitive-environments.md](cooperative-and-competitive-environments.md)
+{% endcontent-ref %}
