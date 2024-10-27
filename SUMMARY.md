@@ -16,3 +16,8 @@
   * [Collectively accepted leadership](contributionism/principles/collectively-accepted-leadership.md)
   * [Equal opportunity](contributionism/principles/equal-opportunity.md)
   * [Cooperative & competitive environments](contributionism/principles/cooperative-and-competitive-environments.md)
+* [Economic model](contributionism/economic-model/README.md)
+  * [Organisations](contributionism/economic-model/organisations.md)
+  * [Exchange](contributionism/economic-model/exchange.md)
+  * [Money](contributionism/economic-model/money.md)
+  * [Governments](contributionism/economic-model/governments.md)
