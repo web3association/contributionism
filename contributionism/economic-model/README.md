@@ -16,14 +16,16 @@ How goods and services are exchanged, what money is being used and how nation st
 
 </div>
 
+
+
 Contributionism is flexible and could be adopted within many different economies. Contributionism is not opinionated about how the rest of the economy must function. Different approaches for exchange, money and government could be adopted within each nation or community that decides to adopt contributionism.
 
 
 
 **Economic model**
 
-{% content-ref url="organisations.md" %}
-[organisations.md](organisations.md)
+{% content-ref url="organisations/" %}
+[organisations](organisations/)
 {% endcontent-ref %}
 
 {% content-ref url="exchange.md" %}

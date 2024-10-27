@@ -1,3 +1,0 @@
-# Organisations
-
-Coming soon.
