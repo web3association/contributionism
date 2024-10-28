@@ -19,6 +19,7 @@
 * [Economic model](contributionism/economic-model/README.md)
   * [Organisations](contributionism/economic-model/organisations/README.md)
     * [Ownership](contributionism/economic-model/organisations/ownership.md)
+    * [Governance](contributionism/economic-model/organisations/governance.md)
   * [Exchange](contributionism/economic-model/exchange.md)
   * [Money](contributionism/economic-model/money.md)
   * [Governments](contributionism/economic-model/governments.md)
