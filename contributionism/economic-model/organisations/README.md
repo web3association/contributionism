@@ -18,4 +18,10 @@ Three important areas that influence how an organisation is operated include how
 [ownership.md](ownership.md)
 {% endcontent-ref %}
 
-More coming soon.
+{% content-ref url="governance.md" %}
+[governance.md](governance.md)
+{% endcontent-ref %}
+
+{% content-ref url="incentives.md" %}
+[incentives.md](incentives.md)
+{% endcontent-ref %}

@@ -1,3 +1,9 @@
+---
+description: >-
+  Governance approaches that could be adopted within a contributionist
+  organisation
+---
+
 # Governance
 
 Under contributionism, organisations are either governed by those that contribute towards an organisation or by the wider community that are affected by the organisation. The adopted ownership type determines which community members or contributors will receive governance rights. Each governance right would have a certain amount of voting power. Voting power will determine how much influence someone has in each governance decision.
