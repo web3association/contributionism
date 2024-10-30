@@ -4,7 +4,7 @@ description: Understanding how money fits into the economic model for contributi
 
 # Money
 
-Money is used to facilitate exchange by acting as a common medium and unit of account. Money also serves as a store of value, enabling people to save and transfer wealth over time. Contributionism can be adopted in many different economies that each could be using multiple forms of money.
+Money is used to facilitate exchange by acting as a common medium and unit of account. Money also serves as a store of value, enabling people to save and transfer wealth over time. Contributionism can be adopted in many different economies that each could be using multiple forms of money. Contributionism could also be adopted in economies that don't even use money.
 
 
 
