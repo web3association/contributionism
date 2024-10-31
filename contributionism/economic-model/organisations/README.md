@@ -1,5 +1,7 @@
 ---
-description: The economic model for organisations under contributionism
+description: >-
+  Understanding how organisations can be owned, governed and incentivised under
+  contributionism
 ---
 
 # Organisations
@@ -12,7 +14,7 @@ Three important areas that influence how an organisation is operated include how
 
 
 
-**Ownership, governance & incentive model**
+**Organisation economic model**
 
 {% content-ref url="ownership.md" %}
 [ownership.md](ownership.md)
