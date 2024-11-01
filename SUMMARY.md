@@ -24,3 +24,4 @@
   * [Exchange](contributionism/economic-model/exchange.md)
   * [Money](contributionism/economic-model/money.md)
   * [Governments](contributionism/economic-model/governments.md)
+* [Implementation](contributionism/implementation.md)
