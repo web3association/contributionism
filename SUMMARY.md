@@ -25,4 +25,6 @@
   * [Money](contributionism/economic-model/money.md)
   * [Governments](contributionism/economic-model/governments.md)
   * [Complimentary models](contributionism/economic-model/complimentary-models.md)
-* [Implementation](contributionism/implementation.md)
+* [Implementation](contributionism/implementation/README.md)
+  * [Contribution tables](contributionism/implementation/contribution-tables.md)
+  * [Loans](contributionism/implementation/loans.md)
