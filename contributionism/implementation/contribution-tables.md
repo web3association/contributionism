@@ -1,5 +1,5 @@
 ---
-description: Initial ideas about how contribution tables could be implemented.
+description: Initial ideas about how contribution tables could be implemented
 ---
 
 # Contribution tables

@@ -11,3 +11,7 @@ description: More information about how contributionism could be implemented.
 {% content-ref url="loans.md" %}
 [loans.md](loans.md)
 {% endcontent-ref %}
+
+{% content-ref url="leadership-contracts.md" %}
+[leadership-contracts.md](leadership-contracts.md)
+{% endcontent-ref %}

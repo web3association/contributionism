@@ -28,3 +28,4 @@
 * [Implementation](contributionism/implementation/README.md)
   * [Contribution tables](contributionism/implementation/contribution-tables.md)
   * [Loans](contributionism/implementation/loans.md)
+  * [Leadership contracts](contributionism/implementation/leadership-contracts.md)
