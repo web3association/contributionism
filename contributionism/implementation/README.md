@@ -15,3 +15,11 @@ description: More information about how contributionism could be implemented.
 {% content-ref url="leadership-contracts.md" %}
 [leadership-contracts.md](leadership-contracts.md)
 {% endcontent-ref %}
+
+{% content-ref url="organisation-parameters.md" %}
+[organisation-parameters.md](organisation-parameters.md)
+{% endcontent-ref %}
+
+{% content-ref url="data-modelling.md" %}
+[data-modelling.md](data-modelling.md)
+{% endcontent-ref %}

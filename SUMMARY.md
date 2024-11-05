@@ -29,3 +29,5 @@
   * [Contribution tables](contributionism/implementation/contribution-tables.md)
   * [Loans](contributionism/implementation/loans.md)
   * [Leadership contracts](contributionism/implementation/leadership-contracts.md)
+  * [Organisation parameters](contributionism/implementation/organisation-parameters.md)
+  * [Data modelling](contributionism/implementation/data-modelling.md)
