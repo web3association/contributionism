@@ -31,3 +31,4 @@
   * [Leadership contracts](contributionism/implementation/leadership-contracts.md)
   * [Organisation parameters](contributionism/implementation/organisation-parameters.md)
   * [Data modelling](contributionism/implementation/data-modelling.md)
+* [Contributionism vs capitalism](contributionism/contributionism-vs-capitalism.md)
