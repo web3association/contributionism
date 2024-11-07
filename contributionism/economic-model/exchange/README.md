@@ -10,15 +10,19 @@ Contributionism could be implemented across different economic models, with vari
 
 ## Market exchange
 
+Markets are currently the most prominently adopted approach for exchanging goods and services across the world.
+
 Market exchange is a system in which the production, distribution and pricing of goods and services is determined primarily by supply and demand in competitive markets.
 
 Prices act as signals for both producers and consumers, and voluntary exchanges take place in markets based on these price signals.
 
 Individuals and businesses make their own economic choices about what's goods and services to provide and how they will be priced. Prices are determined by the forces of supply and demand, serving as a signal for what to produce, how much to produce and who receives goods. Individuals and businesses compete in the market to provide goods and services efficiently.
 
-In a market based economy governments are often responsible for regulating the market and resolving any market failures, enforcing contracts and protecting property rights.
+In a market based economy governments are often responsible for regulating the market and resolving any market failures, enforcing contracts and protecting property rights. More information about market failures can be found here:
 
-Markets are currently the most prominently adopted approach for exchanging goods and services across the world.
+{% content-ref url="market-failures.md" %}
+[market-failures.md](market-failures.md)
+{% endcontent-ref %}
 
 
 

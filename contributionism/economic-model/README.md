@@ -28,8 +28,8 @@ Contributionism is flexible and could be adopted within many different economies
 [organisations](organisations/)
 {% endcontent-ref %}
 
-{% content-ref url="exchange.md" %}
-[exchange.md](exchange.md)
+{% content-ref url="exchange/" %}
+[exchange](exchange/)
 {% endcontent-ref %}
 
 {% content-ref url="money.md" %}
