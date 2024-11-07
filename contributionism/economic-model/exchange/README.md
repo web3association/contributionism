@@ -18,7 +18,7 @@ Prices act as signals for both producers and consumers, and voluntary exchanges 
 
 Individuals and businesses make their own economic choices about what's goods and services to provide and how they will be priced. Prices are determined by the forces of supply and demand, serving as a signal for what to produce, how much to produce and who receives goods. Individuals and businesses compete in the market to provide goods and services efficiently.
 
-In a market based economy governments are often responsible for regulating the market and resolving any market failures, enforcing contracts and protecting property rights. More information about market failures can be found here:
+In a market based economy, governments are often responsible for regulating the market and resolving any market failures, enforcing contracts and protecting property rights. More information about market failures can be found here:
 
 {% content-ref url="market-failures.md" %}
 [market-failures.md](market-failures.md)
