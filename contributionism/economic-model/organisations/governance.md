@@ -6,19 +6,21 @@ description: >-
 
 # Governance
 
-Under contributionism, organisations are either governed by those that contribute towards an organisation or by the wider community that are affected by the organisation. The adopted ownership type determines which community members or contributors will receive governance rights. Each governance right would have a certain amount of voting power. Voting power will determine how much influence someone has in each governance decision.
+Under contributionism, organisations are always governed by those that contribute towards an organisation. The ownership type determines which contributors will receive governance rights. Each governance right would have a certain amount of voting power. Voting power will determine how much influence someone has in each governance decision.
 
 
 
 ## Temporary governance rights
 
-The ownership approach will determine who receives governance rights and how those rights are awarded. Most of the ownership types are contribution based which means that people's contributions will play a key role in determining whether they receive governance rights. All contribution based governance rights are temporary and do not last in perpetuity. A contribution needs to be fairly rewarded over the long term based on the value it provides. Governance rights should last long enough to give a contributor influence over how contributions are being rewarded. Governance rights help to protect people's interests in the organisation.
+All governance rights received for making contributions are temporary and do not last in perpetuity. A contribution needs to be fairly rewarded over the long term based on the value it provides. Governance rights should last long enough to give a contributor influence over how their contributions can be rewarded. Governance rights help to protect people's interests in the organisation.
 
 
 
 **Labour**
 
-Worker owned organisations would use labour to determine who receives governance rights.
+Publicly owned and worker owned organisations would use labour to determine who receives governance rights.
+
+
 
 **Consumption**
 
@@ -28,25 +30,19 @@ Consumer owned organisations would use consumer purchases to determine who recei
 
 **Donations**
 
-Donator owned organisations would use donations to determine who receives governance rights.
+Donor owned organisations would use donations to determine who receives governance rights.
 
 
 
 **Capital investments**
 
-Capital investments that are not collateralised could receive governance rights. Investors risk the capital they invest if their capital might not be returned. Financial investments are an example of an uncollateralised investment as organisations could spend the majority or all of the investment before the organisation fails. Giving a capital investor governance rights can help them with protecting their interests so that they have influence over how the organisation operates. More specifically in some cases this might just mean governance rights that cover how the organisation is able to use the capital invested. Organisations with every ownership approach can benefit from capital investment. Capital investors could receive temporary governance rights in every type of organisation.
+Capital investments could receive governance rights when they risk losing the capital they invest. Financial investments are an example of an uncollateralised investment as organisations could spend the majority or all of the investment before the organisation fails. Giving a capital investor governance rights can help them with protecting their interests so that they have influence over how the organisation operates. In some cases this might mean governance rights that cover how the organisation is able to use the capital invested. Organisations with every ownership approach can benefit from capital investment. Capital investors could receive temporary governance rights in every type of organisation. Publicly owned organisations will usually receive their capital investments from the government so governance rights would not be necessary.
 
 
 
 **Mixed contributions**
 
 Mixed ownership organisations would use a combination of labour, consumption or donation based contributions to determine who receives governance rights.
-
-
-
-**Community ownership**
-
-Community owned organisations would give governance rights to all its members. Communities will need to clearly define what factors determine whether someone is or isn’t a member of that community.
 
 
 
@@ -110,7 +106,7 @@ Each person is given an amount of voting power that is based on the amount they 
 
 **One person one vote**
 
-Each person involved in the decision is given equal voting power. A person could include anyone that has been contributing towards an organisation or that will be impacted by a decision. This approach could be suitable for situations where each person voting could be affected by a decision equally. Community owned organisations might adopt this voting approach for a number of decisions.
+Each person involved in the decision is given equal voting power. A person could include anyone that has been contributing towards an organisation or that will be impacted by a decision. This approach could be suitable for situations where each person voting could be affected by a decision equally.
 
 
 
@@ -132,18 +128,31 @@ One person one vote voting power approaches could be adopted in a few ways. The 
 
 
 
-## Delegated voting power
+## Direct voting
 
-Someone with governance rights and voting power might decide that they don’t want to vote themselves on certain decisions. This could be due to not having enough time to properly participate, them not having enough context or experience about the decision or just because they would prefer someone else to handle it for them. Systems that enable people to delegate voting power are an important solution within governance systems as there is no way to stop someone from copying the voting choices of another person. By developing systems that can handle this process of delegation it is actually advantageous for the voting process as now it will at least be more clear and transparent when people have decided to delegate their voting power to other people.
+In an ideal world contributors would directly vote on all governance decisions within an organisation. This means the organisation would be governed democratically between all its contributors. Direct voting could be an effective approach for smaller organisations, organisations where there is not a large amount of complexity in the decisions being made and organisations where the number of decisions is low. If these factors increase in scale or complexity over time it could become less practical to expect people to vote on all governance decisions.
+
+
+
+## Delegated voting
+
+Delegated voting can be an effective way to increase the scalability and efficiency of handling governance decisions within an organisation. There are a few example variations that are worth consideration:
+
+* **Autonomous team decision making** - A commonly used approach for scaling an organisation’s ability to handle governance decisions is to give teams autonomy to make their own decisions about how they operate and execute different tasks. An example could be an engineering team that is responsible for deciding on what tech stack they are going to use or a marketing team that is responsible for deciding how they will allocate their marketing budget across different marketing channels. This common approach for distributing responsibilities helps to distribute and minimise governance complexity as it prevents the need for every contributor to vote on decisions that they are less informed about or that they have less responsibility over.
+* **Optional delegation** - Individuals could directly vote on certain decisions or they could delegate their vote to another individual to handle that decision. Someone may prefer to do this as they could have limited time to properly participate, not have enough context or experience about the decision or they might just prefer that someone else handles it for them. It’s advantageous to have systems that enable this behaviour as it is not possible to prevent someone from copying someone else’s voting decisions. A formal and transparent process for voter delegation means that the organisations could at least be well informed on how people are actually deciding to vote.
+* **Agreements & Bylaws** - Agreements or bylaws could be introduced that ensure that other contributors have certain governance rights and involvement in certain decisions. For instance, workers could use these agreements or bylaws to give donors or consumers some guarantees on the involvement they will have over certain decisions in the organisation. This could be an effective approach for increasing the amount of trust between different contributor groups that both could have different interests and preferences.
+* **Appointed leadership** - Leadership roles can be a way that certain responsibilities can be delegated to individuals or groups. Leadership roles could be selected in a number of ways. Workers could select another worker to handle certain responsibilities in a leadership position. Workers could also select a consumer or group of consumers to handle certain decisions. Another example could be consumers being given responsibility for selecting someone to fill a leadership position within the organisation.
 
 
 
 ## Elected leadership positions
 
-Elected leadership positions are another important approach for scaling governance systems. Someone could be given the responsibility to handle certain decisions once they are elected. This could be useful for situations where there is difficulty in coming to an agreement and a group is satisfied with delegating this responsibility to someone who will handle the decision and potentially also the outcomes that emerge from that decision. Elected representatives can be an effective way to limit the governance complexity that each voter needs to handle in an organisation. Similar structures are often adopted in many organisations that exist today. Founders or managerial positions can often have a large amount of influence over the direction of an organisation. Some organisations may prefer to operate in this manner out of efficiency. The key difference is that the leadership and responsibilities given to them would be due to the result of being elected by the contributors or community that owns the organisation. Leadership contracts could be used to define the parameters, rules and duration of any leadership positions that get introduced.
+Elected leadership positions can represent an important approach for scaling an organisation’s governance process. Leadership positions could be seen as a form of forced voting delegation. Leadership positions would be given certain responsibilities and control over making certain decisions. This could be useful for situations where there is a difficulty in coming to an agreement and a group is satisfied with delegating this responsibility to someone who can handle the decision or due to the need to increase decision making efficiency. Elected leadership positions could be an effective way to limit the governance complexity that each voter needs to handle in an organisation. Founders or managerial positions can often have a large amount of influence over the direction of an organisation. Some organisations may prefer to operate in this manner out of efficiency or simplicity. Under contributionism, individuals in leadership roles would be elected by the contributors that govern the organisation. Leadership contracts could help to define the parameters, rules and duration of any leadership positions. Leadership roles might be get introduced for a number of reasons:
 
-
-
-## **Governance decisions that should include those that are affected**
-
-Regardless of how an organisation might want to be owned and governed there are situations where the people involved in a decision should include those that will be affected by that decision. This could be relevant for situations when an organisation wants to use resources that are scarce and socially owned. For example, a company might want to use local wood by chopping down tree’s in a local forest to create furniture. Local policies and regulations could determine how organisations are able to request and use these resources. If local policies and regulations don’t exist or if they don’t cover the request that the organisation is making a process would be needed to handle this request. Organisations cannot operate with full autonomy when the decisions they make could negatively impact the lives of other people. Democratic governance processes, regulation and policies could be used to help handle these issues. Market failures can still occur under contributionism as the economic model is focussed on how the organisation is owned, governed and incentivised.
+* **Growing organisation** - A growing number of contributors in an organisation can result in an increasing cost for everyone to participate in governance decisions. Leadership positions can be effective for removing some of this cost by delegating certain responsibilities to individuals.
+* **Growing complexity** - The complexity of decisions could increase as the organisation scales or when it changes what it is executing. Higher complexity could put a large amount of responsibility and pressure on every contributor to be well informed and participate in these decisions. Leadership roles could help with isolating some of these complex decisions and giving someone or a group of people responsibility over handling certain decisions.
+* **Growing decision volume** - The number of decisions an organisation needs to handle could increase as the goods and services being provided evolve over time or as the organisation grows and is handling more consumers.
+* **Competent individuals** - Some individuals in the organisation could be highly competent and effective at leading teams or making complex decisions. An organisation may decide to trust these individuals with certain responsibilities to handle complex decisions.
+* **Highly competitive market** - The organisation may operate in a highly competitive market where the efficiency of the organisation is of high importance. Leadership roles could help with delegating some of this complexity to individuals that can execute decisions more quickly.
+* **Simplify worker responsibilities** - Workers may prefer an environment where their responsibilities are minimised so that they can focus on specific tasks they would prefer to spend their time on.
+* **Handling difficult decisions** - Workers are not well incentivised to make decisions that are not beneficial to themselves. For instance workers may be reluctant to identify and introduce new innovations into the organisation if that meant some of them could be made redundant. Individuals could be elected into leadership roles that give them the responsibility of identifying and introducing new solutions and innovations.

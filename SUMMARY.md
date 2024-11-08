@@ -9,7 +9,7 @@
 * [Principles](contributionism/principles/README.md)
   * [Respect contribution](contributionism/principles/respect-contribution.md)
   * [Permanent record of contribution](contributionism/principles/permanent-record-of-contribution.md)
-  * [Contribution & community based ownership](contributionism/principles/contribution-and-community-based-ownership.md)
+  * [Contributor & public ownership](contributionism/principles/contributor-and-public-ownership.md)
   * [Temporary governance rights](contributionism/principles/temporary-governance-rights.md)
   * [Temporary incentive rights](contributionism/principles/temporary-incentive-rights.md)
   * [Transparent priorities](contributionism/principles/transparent-priorities.md)
