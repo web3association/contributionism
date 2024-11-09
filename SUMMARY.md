@@ -34,3 +34,5 @@
   * [Organisation parameters](contributionism/implementation/organisation-parameters.md)
   * [Data modelling](contributionism/implementation/data-modelling.md)
 * [Contributionism vs capitalism](contributionism/contributionism-vs-capitalism.md)
+* [Critiques of contributionism](contributionism/critiques-of-contributionism.md)
+* [Path to adoption](contributionism/path-to-adoption.md)
