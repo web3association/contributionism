@@ -1,12 +1,12 @@
 ---
 description: >-
-  A comparison between contributionism and capitalism looking at their
+  A comparison between capitalism and contributionism looking at their
   similarities and differences
 ---
 
-# Contributionism vs capitalism
+# Capitalism vs contributionism
 
-Contributionism and capitalism are both focussed on how the organisation is owned, governed and incentivised. The following explores some of the key similarities and differences between capitalism and contributionism for structuring an organisation.
+Capitalism and contributionism are both focussed on how the organisation is owned, governed and incentivised. The following explores some of the key similarities and differences between capitalism and contributionism for structuring an organisation.
 
 
 
