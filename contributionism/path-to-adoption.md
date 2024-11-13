@@ -20,7 +20,7 @@ Once the economic model has had enough feedback and improvement the next phase o
 
 ## **Existing cooperatives**
 
-Cooperatives are already a good example of an existing organisational structure that can often be adopting contributionist principles. These organisations often ensure that all of its member have ownership in the organisation. These organisations can often lean towards being more cooperative than competitive. Existing cooperatives may be interested in experimenting with new tools and processes such as the recording and verification of contributions so that contributors can start to build up a reputation that they could use and benefit from for their entire career.
+Cooperatives are already a good example of an existing organisational structure that can often be adopting contributionist principles. These organisations often ensure that all of its members have ownership in the organisation. These organisations can often lean towards being more cooperative than competitive. Existing cooperatives may be interested in experimenting with new tools and processes such as the recording and verification of contributions so that contributors can start to build up a reputation that they could use and benefit from for their entire career.
 
 
 
@@ -32,7 +32,7 @@ New organisations could be a great starting point for experimenting with contrib
 
 ## **Web3 ecosystems**
 
-Web3 ecosystems are a highly suitable environment for adopting contributionist principles. Many of these ecosystems have the intentions to replace many of the existing systems that we use today with systems that push more power to the edges.
+Web3 ecosystems are a highly suitable environment for adopting contributionist principles. Many of these ecosystems have the intention to replace many of the existing systems that we use today with systems that push more power to the edges.
 
 Contributionism could be adopted at the smart contract platform layer within ecosystem treasuries and funding processes. It could also be adopted by organisations that are building on top of these networks.
 
