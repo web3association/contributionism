@@ -40,12 +40,6 @@ Capital investments could receive governance rights when they risk losing the ca
 
 
 
-**Mixed contributions**
-
-Mixed ownership organisations would use a combination of labour, consumption or donation based contributions to determine who receives governance rights.
-
-
-
 ## Voting power
 
 Governance rights will give people a certain amount of voting power. Voting power determines how much influence they have in organisation decisions. If contributions are being used for ownership and determining governance rights the two main voting power approaches are one person one vote and proportional contribution value based. One person one vote would translate into determining what threshold of contribution is required for a contributor to receive the same voting power as everyone else receives. The proportional approach is where voting power is distributed based on the value of each person's contributions. Organisations could create a voting power approach that sits somewhere between these two options or that blends them together. Different decisions could use different voting power approaches.

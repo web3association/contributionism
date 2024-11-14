@@ -16,8 +16,8 @@ Three important areas that influence how an organisation is operated include how
 
 **Organisation economic model**
 
-{% content-ref url="ownership.md" %}
-[ownership.md](ownership.md)
+{% content-ref url="ownership/" %}
+[ownership](ownership/)
 {% endcontent-ref %}
 
 {% content-ref url="governance.md" %}
