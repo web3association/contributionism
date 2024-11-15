@@ -20,6 +20,7 @@
 * [Economic model](contributionism/economic-model/README.md)
   * [Organisations](contributionism/economic-model/organisations/README.md)
     * [Ownership](contributionism/economic-model/organisations/ownership/README.md)
+      * [Consumer & donor ownership](contributionism/economic-model/organisations/ownership/consumer-and-donor-ownership.md)
       * [Mixed contribution ownership](contributionism/economic-model/organisations/ownership/mixed-contribution-ownership.md)
     * [Governance](contributionism/economic-model/organisations/governance.md)
     * [Incentives](contributionism/economic-model/organisations/incentives.md)

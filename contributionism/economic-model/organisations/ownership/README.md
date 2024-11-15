@@ -12,7 +12,11 @@ Contributionism advocates for organisations that are collectively owned by those
 
 ## Ownership approaches
 
-The adopted ownership approach will determine who receives governance rights in the organisation. Anyone starting an organisation will want to think about the governance decisions that are involved in operating the organisation and who might be most suited to handle those decisions. Governance rights will give contributors influence and control over how the organisation is operated. Organisations are always collectively owned. Either publicly by the government or privately by those that contribute towards the organisation. [Mixed contribution ownership](mixed-contribution-ownership.md) was also considered as another potential ownership approach. A [mixed ownership model](mixed-contribution-ownership.md) could be used smaller and simpler organisation however it is still difficult to recommend this approach due to the unnecessary complexities it can introduce even for those organisations.
+The adopted ownership approach will determine who receives governance rights in the organisation. An organisation will need to think about the governance decisions that are involved in operating the organisation and which contributor might be the most suited to handle those decisions. Governance rights will give contributors influence and control over how the organisation is operated. Organisations would always be collectively owned.
+
+[Consumer and donor ownership](consumer-and-donor-ownership.md) approaches can have some limitations due to scaling complexities however these approaches are still highly useful in certain situations.
+
+[Mixed contribution ownership](mixed-contribution-ownership.md) was also considered as another potential ownership approach. A [mixed ownership model](mixed-contribution-ownership.md) could be used smaller and simpler organisation however it is still difficult to recommend this approach due to the unnecessary complexities it can introduce even for those organisations.
 
 <figure><img src="../../../../.gitbook/assets/contributionism-organisation-ownership (2).png" alt=""><figcaption></figcaption></figure>
 
