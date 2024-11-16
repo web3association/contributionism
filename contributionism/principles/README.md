@@ -4,12 +4,10 @@ description: A list of principles for contributionism
 
 # Principles
 
+The following principles outline the fundamental ideas and concepts that underpin Contributionism as an economic model. These principles represent the foundational guidelines and rules that an organisation should follow if they want to adopt contributionism.
+
 {% content-ref url="respect-contribution.md" %}
 [respect-contribution.md](respect-contribution.md)
-{% endcontent-ref %}
-
-{% content-ref url="permanent-record-of-contribution.md" %}
-[permanent-record-of-contribution.md](permanent-record-of-contribution.md)
 {% endcontent-ref %}
 
 {% content-ref url="contributor-and-public-ownership.md" %}
@@ -30,12 +28,4 @@ description: A list of principles for contributionism
 
 {% content-ref url="collectively-accepted-leadership.md" %}
 [collectively-accepted-leadership.md](collectively-accepted-leadership.md)
-{% endcontent-ref %}
-
-{% content-ref url="equal-opportunity.md" %}
-[equal-opportunity.md](equal-opportunity.md)
-{% endcontent-ref %}
-
-{% content-ref url="cooperative-and-competitive-environments.md" %}
-[cooperative-and-competitive-environments.md](cooperative-and-competitive-environments.md)
 {% endcontent-ref %}

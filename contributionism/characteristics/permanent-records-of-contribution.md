@@ -1,16 +1,18 @@
 ---
-description: Contributions should be permanently recorded.
+description: >-
+  Contributors highly benefit from their contributions being permanently
+  recorded.
 ---
 
-# Permanent record of contribution
+# Permanent records of contribution
 
-**Principle**
+**Characteristic**
 
-Contributions should be permanently recorded.
+Contributors highly benefit from their contributions being permanently recorded. Recorded contributions provide the maximum opportunity for contributors to benefit from the full value of their contributions.
 
 
 
-**Permanent record of contribution**
+**Importance or permanent records of contribution**
 
 Contributors highly benefit from their contributions being permanently recorded so that they can benefit from the full value of their contributions. A contributor would not want an organisation or individual to be able to remove or alter their contributions without their permission. Contributors that are able to own and share their contributions will be able to take full advantage of those contributions. In a market economy this would mean that a contributor would be able to more easily demonstrate their competencies and effectiveness when working in different organisations. The easier it is to share and prove someone's skills and expertise the easier it can become for people to receive a fair reward for their contributions. It can also make it easier for people to move between organisations based on the provable value and impact they’ve generated. Recorded contributions help to empower the individual over the organisation by giving people full ownership and control over their contributions.
 
@@ -20,7 +22,7 @@ Contributors highly benefit from their contributions being permanently recorded 
 
 Records of contribution can be highly useful for a number of use cases:
 
-* **Interests & values** - Someones contributions help with providing evidence about their interests and values.
+* I**nterests & values** - Someones contributions help with providing evidence about their interests and values.
 * **Achievement** - Contributions can help with showcasing peoples achievements and how they have generated value and impact for different organisations.
 * **Proof of contribution** - An accurate record of contribution can be used as evidence to prove that a contributor has done what they said they have.
 * **Reputation** - Accurate contribution records would give people an effective way for people to build up their own reputation. People would be able to more easily prove their skills and expertise if their historical contributions are recorded and verifiable. This could be highly useful for applying to new roles and positions in different organisations. If the contribution records are public it can also be useful for other people and organisations that are looking for individuals with certain experiences, skills and expertise.

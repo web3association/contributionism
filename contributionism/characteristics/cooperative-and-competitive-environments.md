@@ -1,14 +1,14 @@
 ---
 description: >-
-  Contributors should self determine how cooperative or competitive they want
+  Contributors would self determine how cooperative or competitive they want
   their organisation's environment to be.
 ---
 
 # Cooperative & competitive environments
 
-**Principle**
+**Characteristic**
 
-Contributors should self determine how cooperative or competitive they want their organisation's environment to be.
+Contributors would self determine how cooperative or competitive they want their organisation's environment to be.
 
 
 
@@ -26,7 +26,7 @@ A number of people prefer more cooperative environments over competitive ones. A
 
 **Competition & cooperation under contributionism**
 
-Both cooperative and competitive organisations can be highly effective and can both be desirable places for people to join and provide their contributions. Contributionism advocates for organisations to self determine how they want to be structured to reward contribution. Governance, incentives and working environments should align with the values of the people that contribute towards the organisation. Governance and incentive structures need to be collectively agreed and transparently shared. Individuals should be able to align themselves with the organisations that match their preferences and values. Contributionism advocates for freedom of choice so that people can create and join the organisations that they are most aligned with. Regardless of what governance and incentive structures are preferred and adopted, contributions should always be respected.
+Both cooperative and competitive organisations can be highly effective and can both be desirable places for people to join and provide their contributions. Contributionism advocates for organisations to collectively self determine how they want to be structured to reward contribution. Governance, incentives and working environments should align with the values and preferences of the people that contribute towards the organisation. Governance and incentive structures need to be collectively agreed and transparently shared. Individuals should be able to align themselves with the organisations that match their preferences and values. Contributionism advocates for freedom of choice so that people can create and join the organisations that they are most aligned with. Contributions should always be respected regardless of the governance and incentive structures that have been adopted.
 
 
 

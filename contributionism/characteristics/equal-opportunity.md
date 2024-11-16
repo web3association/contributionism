@@ -1,14 +1,14 @@
 ---
 description: >-
-  All contributions should receive equal opportunity to be rewarded fairly based
+  All contributions would receive equal opportunity to be rewarded fairly based
   on the value they provide.
 ---
 
 # Equal opportunity
 
-**Principle**
+**Characteristic**
 
-All contributions should receive equal opportunity to be rewarded fairly based on the value they provide.
+All contributions would receive equal opportunity to be rewarded fairly based on the value they provide.
 
 
 
@@ -24,7 +24,7 @@ Individuals would also have equal opportunity to start their own organisation an
 
 
 
-**Proportional contribution reward as the default**
+**Proportionally rewarding contributions as the default**
 
 An economic model that is truly focussed on equal opportunity is one that ensures that all contributions are fairly rewarded. To align the incentives with everyone wanting to make meaningful contributions it is important that all of the people that contribute are proportionally rewarded for the value of their contributions. If performant contributors are always rewarded for their efforts this aligns the incentives for these contributors to continue working in these types of organisations. When contributors are only partially rewarded or not rewarded at all there is an immediate incentive for these contributors to identify other opportunities that would better respect and reward their contribution efforts. Proportional rewards based on the value of peoples contributions is the default suggested incentive structure within a contributionist organisation.
 
