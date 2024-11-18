@@ -2,14 +2,14 @@
 description: >-
   Earlier contributions are excessively rewarded at the expense of future
   contributions. Commonly used reasons to justify an excessive reward for
-  earlier contributions is not fairly justified.
+  earlier contributions are not fairly justified.
 ---
 
 # Flawed justifications for unfair contribution treatment
 
 **Critique**
 
-Earlier contributions are excessively rewarded at the expense of future contributions. Commonly used reasons to justify an excessive reward for earlier contributions is not fairly justified.
+Earlier contributions are excessively rewarded at the expense of future contributions. Commonly used reasons to justify an excessive reward for earlier contributions are not fairly justified.
 
 
 
