@@ -19,3 +19,7 @@ The following critiques focus on the problems with capitalism and how it influen
 {% content-ref url="flawed-justifications-for-unfair-contribution-treatment.md" %}
 [flawed-justifications-for-unfair-contribution-treatment.md](flawed-justifications-for-unfair-contribution-treatment.md)
 {% endcontent-ref %}
+
+{% content-ref url="contributions-are-not-respected.md" %}
+[contributions-are-not-respected.md](contributions-are-not-respected.md)
+{% endcontent-ref %}
