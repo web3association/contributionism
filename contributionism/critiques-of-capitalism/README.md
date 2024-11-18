@@ -23,3 +23,7 @@ The following critiques focus on the problems with capitalism and how it influen
 {% content-ref url="contributions-are-not-respected.md" %}
 [contributions-are-not-respected.md](contributions-are-not-respected.md)
 {% endcontent-ref %}
+
+{% content-ref url="flawed-share-governance-and-incentive-rights.md" %}
+[flawed-share-governance-and-incentive-rights.md](flawed-share-governance-and-incentive-rights.md)
+{% endcontent-ref %}
