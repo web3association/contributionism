@@ -8,6 +8,7 @@
   * [Other definitions & usage of the term Contributionism](contributionism/what-is-contributionism/other-definitions-and-usage-of-the-term-contributionism.md)
 * [Critiques of capitalism](contributionism/critiques-of-capitalism/README.md)
   * [Understanding capitalism](contributionism/critiques-of-capitalism/understanding-capitalism.md)
+  * [Flawed justifications for unfair contribution treatment](contributionism/critiques-of-capitalism/flawed-justifications-for-unfair-contribution-treatment.md)
 * [Principles](contributionism/principles/README.md)
   * [Respect contribution](contributionism/principles/respect-contribution.md)
   * [Contributor & public ownership](contributionism/principles/contributor-and-public-ownership.md)
