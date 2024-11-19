@@ -35,3 +35,7 @@ The following critiques focus on the problems with capitalism and how it influen
 {% content-ref url="risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md" %}
 [risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md](risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md)
 {% endcontent-ref %}
+
+{% content-ref url="risk-of-motive-priority-and-incentive-misalignment.md" %}
+[risk-of-motive-priority-and-incentive-misalignment.md](risk-of-motive-priority-and-incentive-misalignment.md)
+{% endcontent-ref %}

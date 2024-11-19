@@ -13,6 +13,7 @@
   * [Flawed share governance and incentive rights](contributionism/critiques-of-capitalism/flawed-share-governance-and-incentive-rights.md)
   * [Fair compensation often requires ongoing gestures of goodwill](contributionism/critiques-of-capitalism/fair-compensation-often-requires-ongoing-gestures-of-goodwill.md)
   * [Risk of stagnant ownership and leadership that isn’t collectively accepted](contributionism/critiques-of-capitalism/risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md)
+  * [Risk of motive, priority and incentive misalignment](contributionism/critiques-of-capitalism/risk-of-motive-priority-and-incentive-misalignment.md)
 * [Principles](contributionism/principles/README.md)
   * [Respect contribution](contributionism/principles/respect-contribution.md)
   * [Contributor & public ownership](contributionism/principles/contributor-and-public-ownership.md)
