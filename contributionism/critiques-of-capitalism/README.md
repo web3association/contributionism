@@ -27,3 +27,7 @@ The following critiques focus on the problems with capitalism and how it influen
 {% content-ref url="flawed-share-governance-and-incentive-rights.md" %}
 [flawed-share-governance-and-incentive-rights.md](flawed-share-governance-and-incentive-rights.md)
 {% endcontent-ref %}
+
+{% content-ref url="fair-compensation-often-requires-ongoing-gestures-of-goodwill.md" %}
+[fair-compensation-often-requires-ongoing-gestures-of-goodwill.md](fair-compensation-often-requires-ongoing-gestures-of-goodwill.md)
+{% endcontent-ref %}
