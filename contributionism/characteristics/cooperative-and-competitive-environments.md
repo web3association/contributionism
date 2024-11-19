@@ -39,9 +39,3 @@ Contributionism seeks to balance individual rights with collective progress. Con
 **Organisations should self determine their ownership, governance and incentive structures**
 
 Organisations could be owned, governed, incentivised and operated in a number of ways. Contributionism advocates for organisations to make their own decisions about how they structure and organise themselves. Some organisations might be better suited for a more competitive environment such as novel tech products. Other contributors might prefer to have a more cooperative environment. Organisations that prefer more cooperation over competition could adopt approaches such as one person one vote and limit the usage of large bonus incentive structures. Organisations that prefer a more competitive environment could use proportional governance and incentives approaches that are based on the value of each person's contributions. Organisations will ultimately need to align themselves and how they operate with the collective preferences of those that are contributing towards the organisation.
-
-
-
-**Excessive competition under capitalism**
-
-Capitalism creates a two class ownership structure that disconnects contribution with ownership. This structure can often lead to the exploitation of labour as they do not receive a proportional reward based on the value and impact they generate with their contributions. Workers that want to be fairly rewarded will often need to create their own organisation. This reality leads to a perpetual need for people to create new organisations just to try and receive fair compensation. Rather than making organisational structures that fairly reward ongoing contributions, capitalism incentivises excessive competition due to unbalanced incentive structures.

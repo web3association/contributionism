@@ -76,9 +76,3 @@ Governance rights need to eventually lapse once the full value of the contributi
 **Social governance**
 
 Social governance could be an important part of operating an organisation that represents the best interests of the communities it serves. Some of the decisions that an organisation makes could have a wider impact than those that are contributing towards the organisation. In these situations it is often the responsibility of regulation and policy to influence how those decisions can be handled. Sometimes these regulations and policies might not exist yet and the organisation may need to decide whether it makes sense to delegate a certain decision to a wider audience so that they don’t negatively impact other people due to their own decisions and actions.
-
-
-
-**Unfair distribution of governance rights under capitalism**
-
-Under capitalism, shares represent permanent governance rights in the organisation. One contribution towards an organisation could result in someone having perpetual governance influence for as long as the organisation is operating, which could be for decades or even centuries. Other contributions made towards the organisation could receive no governance rights and these contributions could have been more valuable than any other contribution that has been made to the organisation so far. Capitalism creates a permanent capital based ownership market where the owners of an organisation do not need to have contributed towards the organisation beyond purchasing the shares off someone else. Shares will entitle them to governance rights that influence how the organisation is operated. Shares do not lapse and cannot be taken off an individual that owns them. The owner also has no obligation to sell their shares. This permanent governance rights approach can result in organisations that are governed by those who pay the most for the shares rather than those who are making the most valuable contributions.

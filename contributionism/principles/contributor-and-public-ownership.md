@@ -41,9 +41,3 @@ Public ownership means the government owns the organisation. Workers would gover
 **Common ownership**
 
 Common ownership focuses on how resources or assets can be collectively owned without the pursuit of individual profit. Natural and digital resources could be owned collectively by a community to help prevent the misuse of those resources. Any organisation could be required to seek approval to use resources that are being governed under a common ownership model. Common ownership helps to prevent the need for community ownership over an organisation as the exact resources or assets that need to be protected can be isolated and governed by the community. How people decide to collaborate together in an organisation can be left to them to decide as long as they comply with any laws and regulations.
-
-
-
-**Stagnant and unbalanced ownership under capitalism**
-
-Capital based shares in capitalist organisations give the holder permanent ownership in an organisation. These shares often represent perpetual governance and incentive rights. As an organisation gets closer to profitability there is an incentive for existing shareholders to minimise the distribution of any new shares as this would dilute their own ownership in the organisation and reduce the opportunity for maximising future profits for themselves. This incentive creates ownership structures that can become increasingly stagnant and unbalanced over time. Future contributions, regardless of their value and impact, can be easily exploited in this environment due to the incentive of owners to not reward these contributions with shares of ownership that reflect the proportional value that the contribution has generated.
