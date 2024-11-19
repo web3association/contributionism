@@ -31,3 +31,7 @@ The following critiques focus on the problems with capitalism and how it influen
 {% content-ref url="fair-compensation-often-requires-ongoing-gestures-of-goodwill.md" %}
 [fair-compensation-often-requires-ongoing-gestures-of-goodwill.md](fair-compensation-often-requires-ongoing-gestures-of-goodwill.md)
 {% endcontent-ref %}
+
+{% content-ref url="risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md" %}
+[risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md](risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md)
+{% endcontent-ref %}
