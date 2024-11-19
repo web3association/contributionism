@@ -15,6 +15,7 @@
   * [Risk of stagnant ownership and leadership that isn’t collectively accepted](contributionism/critiques-of-capitalism/risk-of-stagnant-ownership-and-leadership-that-isnt-collectively-accepted.md)
   * [Risk of motive, priority and incentive misalignment](contributionism/critiques-of-capitalism/risk-of-motive-priority-and-incentive-misalignment.md)
   * [Excessive competition](contributionism/critiques-of-capitalism/excessive-competition.md)
+  * [Equal opportunity and meritocratic fallacies](contributionism/critiques-of-capitalism/equal-opportunity-and-meritocratic-fallacies.md)
 * [Principles](contributionism/principles/README.md)
   * [Respect contribution](contributionism/principles/respect-contribution.md)
   * [Contributor & public ownership](contributionism/principles/contributor-and-public-ownership.md)

@@ -43,3 +43,7 @@ The following critiques focus on the problems with capitalism and how it influen
 {% content-ref url="excessive-competition.md" %}
 [excessive-competition.md](excessive-competition.md)
 {% endcontent-ref %}
+
+{% content-ref url="equal-opportunity-and-meritocratic-fallacies.md" %}
+[equal-opportunity-and-meritocratic-fallacies.md](equal-opportunity-and-meritocratic-fallacies.md)
+{% endcontent-ref %}
