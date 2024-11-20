@@ -4,7 +4,7 @@ description: A list of emergent characteristics of contributionism
 
 # Characteristics
 
-The following characteristics outline some of the emergent features and outcomes that you'd expect to see in an economy that adopts contributionist principles. These characteristics can help with understanding how the model could function in practice.
+The following characteristics represent some of the emergent features and outcomes that you could expect to see in an economy where many organisations are adopting contributionist principles. These characteristics can help with understanding how the model could function in practice.
 
 {% content-ref url="permanent-records-of-contribution.md" %}
 [permanent-records-of-contribution.md](permanent-records-of-contribution.md)
