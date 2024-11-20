@@ -41,3 +41,9 @@ Public ownership means the government owns the organisation. Workers would gover
 **Common ownership**
 
 Common ownership focuses on how resources or assets can be collectively owned without the pursuit of individual profit. Natural and digital resources could be owned collectively by a community to help prevent the misuse of those resources. Any organisation could be required to seek approval to use resources that are being governed under a common ownership model. Common ownership helps to prevent the need for community ownership over an organisation as the exact resources or assets that need to be protected can be isolated and governed by the community. How people decide to collaborate together in an organisation can be left to them to decide as long as they comply with any laws and regulations.
+
+
+
+**Principle compliance**
+
+When a new organisation is created the contributors involved will need to decide which type of ownership is most suitable. Organisations could be owned by workers, consumers or donors or they could be publicly owned. Anyone who contributes towards the organisation should know how the organisation is owned as this will determine who receives governance rights. Governance rights will determine who is responsible for governing the organisation.

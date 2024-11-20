@@ -33,3 +33,9 @@ Organisations could have a number of different priorities that they decide to ad
 * **Environmentally focussed** - Respecting and maintaining the environment and preventing any future harm can be an important priority for organisations that operate more closely with nature. Organisations that create physical products may decide to prioritise environmental concerns over profit to ensure they are environmentally sustainable over the long term.
 * **Safety focussed** - The safety of the consumer is an important priority for organisations that create products or services that can put peoples lives in danger. Pharmaceutical products, heavy machinery or airlines can be examples where safety is often an important long term priority.
 * **Availability & access focussed** - Prioritising access means that an organisation is trying to ensure that the supply of a product or services is always available to the consumer. Services such as water, electricity, heating or internet are common examples that can benefit from prioritising availability and access due to the importance of these services for the consumer.
+
+
+
+**Principle compliance**
+
+Any motives or priorities for the organisation should be set by contributors that govern the organisation. All contributors that govern or operate the organisation should have access to the priorities that have been agreed. Transparent motives and priorities means it will be easier for people to align their contribution efforts with organisations that match their preferences and values.

@@ -30,3 +30,9 @@ Regardless of how an organisation is owned and governed there are situations whe
 **Market failures**
 
 Market failures could still occur in any market economy regardless of how an organisation is governed. Governments might introduce policies and regulations that try to prevent or resolve these market failures. Organisations will need to comply with any changing rules and regulations such as taxes, access to resources or infrastructure changes or any other policy changes that influence how they need to operate the organisation.
+
+
+
+**Principle compliance**
+
+Anyone that makes a contribution towards the organisation that matches the ownership approach should receive governance rights. No contributor should be unfairly excluded from receiving these rights. A worker owned organisation would mean that anyone that provides their labour would receive governance rights. Contributors could decide to govern and operate the organisation in a number of ways. In competitive environments, governance rights could be distributed proportionally based on the value of each person's contributions. In cooperative environments, governance rights with equal voting power could be distributed based on a threshold amount of contribution. It is up to the contributors to collectively decide how governance rights should be distributed.

@@ -76,3 +76,9 @@ Governance rights need to eventually lapse once the full value of the contributi
 **Social governance**
 
 Social governance could be an important part of operating an organisation that represents the best interests of the communities it serves. Some of the decisions that an organisation makes could have a wider impact than those that are contributing towards the organisation. In these situations it is often the responsibility of regulation and policy to influence how those decisions can be handled. Sometimes these regulations and policies might not exist yet and the organisation may need to decide whether it makes sense to delegate a certain decision to a wider audience so that they don’t negatively impact other people due to their own decisions and actions.
+
+
+
+**Principle compliance**
+
+All governance rights should have a defined end date so that they aren’t valid in perpetuity. Governance rights should last long enough for the contributor to protect their interests so that they can receive the full value from their contributions. Any additional clauses and policies should be clear such as whether the holder is able to sell their rights to other people. If governance rights can be sold, it will be important for people to know whether there are any changes or restrictions to those rights for those people that have bought them.
