@@ -49,3 +49,8 @@
 * [Capitalism vs contributionism](contributionism/contributionism-vs-capitalism.md)
 * [Critiques of contributionism](contributionism/critiques-of-contributionism.md)
 * [Path to adoption](contributionism/path-to-adoption.md)
+
+## Resources
+
+* [Contribution table](resources/contribution-table.md)
+* [Roadmap](resources/roadmap.md)
