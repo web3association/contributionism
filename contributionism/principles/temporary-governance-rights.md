@@ -8,7 +8,7 @@ description: >-
 
 **Principle**
 
-Temporary governance rights should be awarded to all contributions that match the contribution ownership type.
+Temporary governance rights should be given to all contributions that match the contribution ownership type.
 
 
 
@@ -23,7 +23,7 @@ Community owned organisations would not use contributions to determine who recei
 Governance rights could give contributors voting power for a variety of different decisions. By default any contribution should result in the contributor receiving a proportional amount of governance rights that reflect the value of the contribution they made. Organisations may also agree on other structures such as one person one vote if they prefer simplicity. If an organisation was owned by its workers then labour contributions would be what is used to determine who gets what amount of governance rights. Some examples of the type of rights that organisations would have:
 
 * **Right to use** - Contributors can use their property as they see fit within the bounds of the law. This includes using assets to produce goods or services or simply for personal enjoyment.
-* **Right to transfer** - \*\*\*\*Contributors have the right to sell, lease, or give away their property. This includes transferring property through sales, inheritance or gifts. Contributors might also be given the right to sell their governance rights to someone else.
+* **Right to transfer** - Contributors have the right to sell, lease, or give away their property. This includes transferring property through sales, inheritance or gifts. Contributors might also be given the right to sell their governance rights to someone else.
 * **Right to exclude** - Contributors can prevent others from using or interfering with their property. This is fundamental to maintaining the exclusivity and control of owned assets.
 * **Right to modify** - Contributors can alter or modify their property, such as developing land or renovating a building providing it complies with any legal constraints.
 * **Right to modify the organisation -** Contributors would be able to collectively decide on any changes to the ownership, governance and incentive structures that are adopted in the organisation.
