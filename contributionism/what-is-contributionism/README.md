@@ -49,17 +49,13 @@ People might make donations to certain organisations to help them with achieving
 
 ## **Types of labour**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/contributionism-logo-filled.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/contributionism-logo-filled.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 
 
 🖌️ **Creative labour**
 
-Involves tasks that require creativity, innovation, and artistic expression, such as art, design, writing, entertainment and content creation.
+Involves tasks that require creativity, innovation and artistic expression, such as art, design, writing, entertainment and content creation.
 
 
 
@@ -71,7 +67,7 @@ Involves tasks that require physical effort and skills, such as construction, ma
 
 🧪 **Intellectual labour**
 
-Involves tasks that require mental effort, analytical thinking, problem-solving, and specialised knowledge, such as research, analysis, education, professional services and technical work.
+Involves tasks that require mental effort, analytical thinking, problem-solving and specialised knowledge, such as research, analysis, education, professional services and technical work.
 
 
 
