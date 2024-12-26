@@ -18,6 +18,6 @@ Contributors submit contribution logs that highlight what they have been working
 
 **George Lovegrove**
 
-Contributor details: [docs.web3association.co/about/contributors/george-lovegrove](https://docs.web3association.co/about/contributors/george-lovegrove)
+Contributor details: [docs.web3association.io/about/contributors/george-lovegrove](https://docs.web3association.io/about/contributors/george-lovegrove)
 
-Contribution logs: [docs.web3association.co/about/contributors/george-lovegrove/contribution-logs](https://docs.web3association.co/about/contributors/george-lovegrove/contribution-logs)
+Contribution logs: [docs.web3association.io/about/contributors/george-lovegrove/contribution-logs](https://docs.web3association.io/about/contributors/george-lovegrove/contribution-logs)
