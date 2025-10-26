@@ -22,8 +22,8 @@ The following principles outline the fundamental ideas and concepts that underpi
 [temporary-governance-rights.md](temporary-governance-rights.md)
 {% endcontent-ref %}
 
-{% content-ref url="temporary-incentive-rights.md" %}
-[temporary-incentive-rights.md](temporary-incentive-rights.md)
+{% content-ref url="temporary-compensation-rights.md" %}
+[temporary-compensation-rights.md](temporary-compensation-rights.md)
 {% endcontent-ref %}
 
 {% content-ref url="transparent-priorities.md" %}

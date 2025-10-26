@@ -1,20 +1,12 @@
 ---
 description: >-
-  Understanding capitalism and critiquing it's approach for owning, governing
-  and incentivising an organisation
+  Critiquing companies that are limited by shares and this approach for
+  ownership, governance and compensation within an organisation
 ---
 
-# Critiques of capitalism
+# Critiques of companies limited by shares
 
-Before capitalism can be properly critiqued a clearer understanding is needed about what capitalism is and what it is not. There are a number of economic structures and ideas that can exist without capitalism that are commonly associated with the capitalist economic model.
-
-{% content-ref url="understanding-capitalism.md" %}
-[understanding-capitalism.md](understanding-capitalism.md)
-{% endcontent-ref %}
-
-
-
-The following critiques focus on the problems with capitalism and how it influences how organisations are owned, governed and incentivised.
+The following critiques focus on the problems with companies limited by shares and how it influences how organisations handle ownership, governance and compensation.
 
 {% content-ref url="flawed-justifications-for-unfair-contribution-treatment.md" %}
 [flawed-justifications-for-unfair-contribution-treatment.md](flawed-justifications-for-unfair-contribution-treatment.md)
@@ -24,8 +16,8 @@ The following critiques focus on the problems with capitalism and how it influen
 [contributions-are-not-respected.md](contributions-are-not-respected.md)
 {% endcontent-ref %}
 
-{% content-ref url="flawed-share-governance-and-incentive-rights.md" %}
-[flawed-share-governance-and-incentive-rights.md](flawed-share-governance-and-incentive-rights.md)
+{% content-ref url="flawed-share-governance-and-compensation-rights.md" %}
+[flawed-share-governance-and-compensation-rights.md](flawed-share-governance-and-compensation-rights.md)
 {% endcontent-ref %}
 
 {% content-ref url="fair-compensation-often-requires-ongoing-gestures-of-goodwill.md" %}
