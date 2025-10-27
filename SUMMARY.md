@@ -34,7 +34,7 @@
       * [Consumer & donor ownership](contributionism/economic-model/organisations/ownership/consumer-and-donor-ownership.md)
       * [Mixed contribution ownership](contributionism/economic-model/organisations/ownership/mixed-contribution-ownership.md)
     * [Governance](contributionism/economic-model/organisations/governance.md)
-    * [Incentives](contributionism/economic-model/organisations/incentives.md)
+    * [Compensation](contributionism/economic-model/organisations/compensation.md)
   * [Exchange](contributionism/economic-model/exchange/README.md)
     * [Market failures](contributionism/economic-model/exchange/market-failures.md)
   * [Money](contributionism/economic-model/money.md)

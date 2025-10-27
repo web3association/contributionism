@@ -24,6 +24,6 @@ Three important areas that influence how an organisation is operated include how
 [governance.md](governance.md)
 {% endcontent-ref %}
 
-{% content-ref url="incentives.md" %}
-[incentives.md](incentives.md)
+{% content-ref url="compensation.md" %}
+[compensation.md](compensation.md)
 {% endcontent-ref %}

@@ -1,22 +1,22 @@
 ---
 description: >-
-  Incentive approaches that could be adopted within a contributionist
+  Compensation approaches that could be adopted within a contributionist
   organisation
 ---
 
-# Incentives
+# Compensation
 
-Anyone that makes contributions towards an organisation should have their contributions fairly measured and rewarded. Incentives can play an important role in retaining high performing contributors. The more valuable and impactful someone's contributions are the more that it should be rewarded when this is possible. The default incentive structure for any organisation should be to proportionally reward contribution based on the value and impact it generates. This is unless another collective agreement has been made about how contributions will be rewarded.
-
-
-
-## Temporary incentive rights
-
-Labour and capital are the two main contributions that can receive temporary incentives rights. There are a number of incentive mechanisms that could be used for rewarding both these types of contribution.
+Anyone that makes contributions towards an organisation should have their contributions fairly measured and rewarded. Compensation can play an important role in retaining high performing contributors. The more valuable and impactful someone's contributions are the more that it should be rewarded when this is possible. One potentially popular compensation structure for any organisation could be to proportionally reward contribution based on the value and impact it generates. This is unless another collective agreement has been made about how contributions will be rewarded.
 
 
 
-## **Labour incentive mechanisms**
+## Temporary compensation rights
+
+Labour and capital are the two main contributions that can receive temporary compensation rights. There are a number of incentive mechanisms that could be used for rewarding both these types of contribution.
+
+
+
+## **Labour compensation mechanisms**
 
 Financial incentives help with encouraging people to make impactful contributions in a market based economy.
 
@@ -42,7 +42,7 @@ Similar to vested stock options, a vested bonus structure could be an effective 
 
 **Group bonuses**
 
-Teams that are performing well together could be rewarded as a group for their contributions. Rewarding groups rather than individuals with a bonus incentive structure could be an effective way to maintain and increase team collaboration and morale.
+Teams that are performing well together could be rewarded as a group for their contributions. Rewarding groups rather than individuals with a bonus compensation structure could be an effective way to maintain and increase team collaboration and morale.
 
 
 
@@ -52,7 +52,7 @@ Contributions at the beginning of an organisation are often more risky due to th
 
 
 
-## Capital incentive mechanisms
+## Capital compensation mechanisms
 
 
 
