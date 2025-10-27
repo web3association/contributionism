@@ -20,13 +20,13 @@ Transparency of priorities is an important part of enabling anyone to match thei
 
 **Collectively agreed priorities**
 
-Contributors should be able to share and vote on what they believe are the most important priorities for an organisation. Members of community owned organisations would collectively decide which priorities were most important for that organisation. Contributors would decide in contribution owned organisations. In both of these scenarios all owning members and contributors would be involved in priority setting decisions.
+Contributors should be able to share and vote on what they believe are the most important priorities for an organisation. Members of publicly owned organisations would respond to the priorities were set by the wider community. Contributors would decide in contribution owned organisations. In both of these scenarios all community members or contributors would be involved in priority setting decisions.
 
 
 
 **Example long term priorities**
 
-Organisations could have a number of different priorities that they decide to adopt. These priorities can influence how they operate on a day to day basis. Determining which priority is the most important to an organisation can be highly beneficial for increasing contribution alignment within the organisation. Collectively agreeing on the most important priorities should be an ongoing process. The choices that are initially made for an organisation could change over time as the contributors learn new things and their preferences adapt and change. Some example long term priorities that an organisation could adopt include:
+Organisations could adopt a number of different priorities. These priorities can influence how they operate on a day to day basis. Determining which priority is the most important to an organisation can be highly beneficial for increasing contribution alignment within the organisation. Collectively agreeing on the most important priorities should be an ongoing process. The choices that are initially made for an organisation could change over time as the contributors learn new things and their preferences adapt and change. Some example long term priorities that an organisation could adopt include:
 
 * **Impact focussed** - Some organisations could focus on achieving a certain mission or generating impact above all else. The reward for labour contributions or capital investments may be limited due to this focus and collective alignment around addressing certain priorities to generating impact. Charities and not-for-profit organisations could be examples that might have a sole focus on generating impact and contributing towards socially beneficial outcomes.
 * **Availability & access focussed** - Prioritising access means that an organisation is trying to ensure that the supply of a product or services is always available to the consumer. Services such as water, electricity, heating or internet are common examples that can benefit from prioritising availability and access due to the importance of these services for the consumer.
@@ -36,6 +36,6 @@ Organisations could have a number of different priorities that they decide to ad
 
 
 
-**Principle compliance**
+**Compliance with this principle**
 
 Any motives or priorities for the organisation should be set by contributors that govern the organisation. All contributors that govern or operate the organisation should have access to the priorities that have been agreed. Transparent motives and priorities means it will be easier for people to align their contribution efforts with organisations that match their preferences and values.
