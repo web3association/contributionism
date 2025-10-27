@@ -46,7 +46,7 @@
   * [Leadership contracts](contributionism/implementation/leadership-contracts.md)
   * [Organisation parameters](contributionism/implementation/organisation-parameters.md)
   * [Data modelling](contributionism/implementation/data-modelling.md)
-* [Capitalism vs contributionism](contributionism/contributionism-vs-capitalism.md)
+* [Companies limited by shares vs contributionism](contributionism/companies-limited-by-shares-vs-contributionism.md)
 * [Critiques of contributionism](contributionism/critiques-of-contributionism.md)
 * [Path to adoption](contributionism/path-to-adoption.md)
 

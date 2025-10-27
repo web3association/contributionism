@@ -16,7 +16,7 @@ Contributions that are not relevant for risk adjusted loans would include donati
 
 **Capital**
 
-Under capitalism, capital invested is commonly converted into share ownership. Investors receive benefits such as voting rights, dividends, profit from organisation growth and appreciation, assets claims in liquidation, protection against dilution, legal protections and limited liability. Contributionism advocates for the abolishment of capital based share ownership. Loans are able to achieve near equivalent benefits and outcomes that share ownership provides. Capital investment in contributionism results in permanent ownership over the contribution, temporary governance rights and temporary incentive rights. These temporary governance and incentive rights will last until the loan has been repaid. Investors can still achieve a large return on investment, protect their capital invested and be involved in the governance of an organisation until their investment is repaid.
+Under capitalism, capital invested is commonly converted into share ownership. Investors receive benefits such as voting rights, dividends, profit from organisation growth and appreciation, assets claims in liquidation, protection against dilution, legal protections and limited liability. Contributionism advocates for the abolishment of capital based share ownership. Loans are able to achieve near equivalent benefits and outcomes that share ownership provides. Capital investment in contributionism results in permanent ownership over the contribution, temporary governance rights and temporary compensation rights. These temporary governance and compensation rights will last until the loan has been repaid. Investors can still achieve a large return on investment, protect their capital invested and be involved in the governance of an organisation until their investment is repaid.
 
 
 
@@ -44,7 +44,7 @@ Loans can achieve a very similar outcome as capital based shareholder ownership:
 
 Loans would also have some differences with capital based shared:
 
-* **Dividends** - The investor would usually only receive the agreed return on investment and any interest on the loan that has accumulated until the loan has been repaid. Capital would be rewarded with a fair return on investment instead of returns that could be infinite and excessive. In certain circumstances the investor may be given incentive rights for a capital based investment. For instance, intellectual property might be a reason that an organisation decides to give an investor temporary contribution dividend rights due to the unique value the capital has which can’t be found elsewhere.
+* **Dividends** - The investor would usually only receive the agreed return on investment and any interest on the loan that has accumulated until the loan has been repaid. Capital would be rewarded with a fair return on investment instead of returns that could be infinite and excessive. In certain circumstances the investor may be given compensation rights for a capital based investment. For instance, intellectual property might be a reason that an organisation decides to give an investor temporary contribution dividend rights due to the unique value the capital has which can’t be found elsewhere.
 * **Profit from company growth and appreciation** - Investors would only receive a return on investment that is fair and reasonable based on the risk of the organisation failing and the length of time it takes until the loan is repaid. If the loan is not repaid on time the investor could benefit from the ongoing interest that accumulates on the debt.
 
 
@@ -127,7 +127,7 @@ Lenders could be given temporary governance rights in the organisation so that t
 
 **Exchange rights**
 
-Some organisations might only want specific people to invest and have governance rights in the organisation. Exchange rights could define the conditions in which a lender is able to sell some or all of their loan to another person and what this would mean for any existing governance rights. Some organisations may want the governance rights to lapse if the loan is exchanged. The loan's incentive rights would never lapse as this is the financial agreement that must be honoured.
+Some organisations might only want specific people to invest and have governance rights in the organisation. Exchange rights could define the conditions in which a lender is able to sell some or all of their loan to another person and what this would mean for any existing governance rights. Some organisations may want the governance rights to lapse if the loan is exchanged. The loan's compensation rights would never lapse as this is the financial agreement that must be honoured.
 
 
 

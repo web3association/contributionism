@@ -1,12 +1,12 @@
 ---
 description: >-
-  A comparison between capitalism and contributionism looking at their
-  similarities and differences
+  A comparison between companies limited by shares and contributionism that
+  looks at their similarities and differences
 ---
 
-# Capitalism vs contributionism
+# Companies limited by shares vs contributionism
 
-Capitalism and contributionism are both focussed on how the organisation is owned, governed and incentivised. The following explores some of the key similarities and differences between capitalism and contributionism for structuring an organisation.
+Capitalism is more broadly defined than contributionism. Contributionism is focussed on how the organisation is owned, governed and incentivised. Companies limited by perpetual shares have been a popular organisational structure that has emerged within the economic system of capitalism. The following explores some of the key similarities and differences between companies limited by perpetual shares and contributionism for structuring an organisation.
 
 
 
@@ -14,34 +14,34 @@ Capitalism and contributionism are both focussed on how the organisation is owne
 
 ## Similarities
 
-Similar to capitalism, contributionism is flexible and could be adopted in many different economic environments.
+Similar to companies that are limited by shares, contributionism is a flexible approach for structuring an organisation and this could be adopted in many different economic environments.
 
 
 
 **Money**
 
-Both capitalist and contributionist organisations could utilise multiple forms of money including gold, fiat currencies or cryptocurrencies.
+Both companies limited by shares and contributionist organisations could use multiple forms of money including gold, fiat currencies or cryptocurrencies.
 
 
 
 **Exchange**
 
-Both capitalist and contributionist organisations can operate within free markets where there are high levels of competition and freedom of choice for consumers.
+Both companies limited by shares and contributionist organisations can operate within free markets where there are high levels of competition and freedom of choice for consumers.
 
 
 
 **Governments**
 
-Both capitalist and contributionist organisations could operate within nations that adopt different governance structures such as classic liberal, regulated, social or state based governments.
+Both companies limited by shares and contributionist organisations could operate within nations that adopt different governance structures such as classic liberal, regulated, social or state based governments.
 
 
 
 **Shared values and characteristics**
 
-* **Encouraging entrepreneurship** - Individuals that start contributionist organisations would be rewarded for risk taking just as they are in capitalist organisations. Any risks involved with starting up an organisation would be taken into account when evaluating and rewarding each contribution.
-* **Wealth accumulation** - Individuals could seek to accumulate wealth in either capitalist or contributionist organisations.
-* **Profit motivation** - Contributionist organisations would collectively self determine their own motivations and priorities. This could similarly include a motivation for profit, which is a common motivation under capitalism.
-* **Rewarding effective organisations** - In a market economy, both contributionist and capitalist organisations would be rewarded based on their productivity, efficiency and ability to meet market demands.
+* **Encouraging entrepreneurship** - Individuals that start contributionist organisations would be rewarded for risk taking just as they are in companies limited by shares. Any risks involved with starting up an organisation would be taken into account when evaluating and rewarding each contribution.
+* **Wealth accumulation** - Individuals could seek to accumulate wealth in either companies limited by shares or contributionist organisations.
+* **Profit motivation** - Contributionist organisations would collectively self determine their own motivations and priorities. This could similarly include a motivation for profit, which is a common motivation within companies limited by shares.
+* **Rewarding effective organisations** - In a market economy, both contributionist organisation and companies limited by shares would be rewarded based on their productivity, efficiency and ability to meet market demands.
 * **Personal freedom** - Capitalism and contributionism both advocate for people freedom. People would have the autonomy to make their own economic decisions, such as choosing their occupation, how they spend their money and what they decide to produce or consume.
 
 
@@ -50,7 +50,7 @@ Both capitalist and contributionist organisations could operate within nations t
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Capitalism</strong></td><td></td></tr><tr><td></td><td><strong>Contributionism</strong></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Companies limited by perpetual shares</strong></td><td></td></tr><tr><td></td><td><strong>Contributionism</strong></td><td></td></tr></tbody></table>
 
 
 
@@ -58,7 +58,7 @@ Both capitalist and contributionist organisations could operate within nations t
 
 How is the organisation owned? What does ownership mean? What outcome does that approach lead to?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p>Capital shares based ownership.<br></p><p>Ownership is determined by capital based shares. Shares give owners perpetual governance and incentive rights. Existing owners have full control to decide who receives any future shares regardless of the contributions they provide. Shares are commonly distributed between founding members based on labour and capital contributions. Future contributions may or may not receive shares. Capitalist organisations could be owned by one person or by a small number of individuals. They can also be owned by every worker in the organisation depending on how the initial owners decide to distribute shares.</p><p><br>Creates a disconnect between contribution and ownership. Those that own the organisation do not need to contribute towards the organisation over the long term. Shares give them perpetual governance and incentive rights regardless of future contribution.</p></td><td></td></tr><tr><td></td><td><p>Contributor ownership (Based on donations, consumption, labour or mixed contributions) or public ownership.<br></p><p>Ownership is determined by contributions or the organisation is publicly owned by the government. In contributor owned organisations, contributors receive temporary governance and incentive rights for their contributions. Owners collectively decide who else will be able to contribute. Any contribution that matches the contribution ownership approach will lead to ownership in the organisation. Contributionist organisations are always collectively owned by those that contribute or collectively by society through their government.<br></p><p>Contribution should always be respected within the organisation. In all contributionist organisations governance and incentive rights are temporary, meaning that contributors will need to contribute over the long term if they want to receive future incentives or for them to have any influence in the organisation.</p></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p>Capital shares based ownership.<br></p><p>Ownership is determined by capital based shares. Shares give owners perpetual governance and compensation rights. Existing owners have full control to decide who receives any future shares regardless of the contributions they provide. Shares are commonly distributed between founding members based on labour and capital contributions. Future contributions may or may not receive shares. Capitalist organisations could be owned by one person or by a small number of individuals. They can also be owned by every worker in the organisation depending on how the initial owners decide to distribute shares.</p><p><br>Perpetual shares create a disconnect between contribution and ownership. Those that own the organisation do not need to contribute towards the organisation over the long term. Shares give them perpetual governance and compensation rights regardless of whether they make any future contribution.</p></td><td></td></tr><tr><td></td><td><p>Contributor ownership (Based on donations, consumption, labour or mixed contributions) or public ownership.<br></p><p>Ownership is determined by contributions or the organisation is publicly owned by the government. In contributor owned organisations, contributors receive temporary governance and compensation rights for their contributions. Owners collectively decide who else will be able to contribute. Any contribution that matches the contribution ownership approach will lead to ownership in the organisation. Contributionist organisations are always collectively owned by those that contribute or collectively by society through their government.<br></p><p>Contribution should always be respected within the organisation. In all contributionist organisations governance and compensation rights are temporary, meaning that contributors will need to contribute over the long term if they want to receive future incentives or for them to have any influence in the organisation.</p></td><td></td></tr></tbody></table>
 
 
 
@@ -76,7 +76,7 @@ How do organisations handle financial investment?
 
 How can the ownership of the organisation change? What are the implications of this?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p>Capital based shares often represent permanent ownership, governance and incentive rights. Shares can be exchanged with other people.<br></p><p>The owners of the organisation that govern how it operates could be people that do not actively contribute towards the organisation. These owners would have perpetual influence over the organisation regardless of any future contributions that other people make towards the organisation.</p></td><td></td></tr><tr><td></td><td><p>Contributions made towards the organisation are permanent and non transferrable. Temporary governance and incentive rights received for those contributions can be exchanged with other people. Sometimes an organisation might collectively decide to prevent the exchange of governance or incentive rights.<br></p><p>Exchangeable governance rights could give other people temporary influence over an organisation. People that buy governance rights to influence an organisation would need to perpetually buy more governance rights as these rights would lapse over time. New governance rights would be given to contributors that continue to contribute towards the organisation.</p></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td><p>Capital based shares often represent permanent ownership, governance and compensation rights. Shares can be exchanged with other people.<br></p><p>The owners of the organisation that govern how it operates could be people that do not actively contribute towards the organisation. These owners would have perpetual influence over the organisation regardless of any future contributions that other people make towards the organisation.</p></td><td></td></tr><tr><td></td><td><p>Contributions made towards the organisation are permanent and non transferrable. Temporary governance and compensation rights received for those contributions can be exchanged with other people. Sometimes an organisation might collectively decide to prevent the exchange of governance or compensation rights.<br></p><p>Exchangeable governance rights could give other people temporary influence over an organisation. People that buy governance rights to influence an organisation would need to perpetually buy more governance rights as these rights would lapse over time. New governance rights would be given to contributors that continue to contribute towards the organisation.</p></td><td></td></tr></tbody></table>
 
 
 
@@ -120,7 +120,7 @@ How long does someone have governance rights for in the organisation?
 
 How much voting power do participants have?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Voting power is proportional to the amount of shares someone has when selecting board members. The boards of directors often use an equal voting power approach to make decisions. Executives may leave larger decisions to the CEO and other decisions could be delegated to certain executive to handle. The voting process may or may not be collaborative and use multiple stakeholders.</td><td></td><td></td></tr><tr><td>Voting power would be determined by the value of the contributions provided or equally between contributors that reach a certain threshold of contribution. It could also be determined using a combination of these approaches.</td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Voting power is proportional to the amount of shares someone has when selecting board members. The boards of directors often use an equal voting power approach to make decisions. Executives may leave larger decisions to the CEO and other decisions could be delegated to certain executive to handle. The voting process may or may not be collaborative and use multiple stakeholders.</td><td></td><td></td></tr><tr><td>Voting power would be determined by the value of the contributions provided or equally between contributors. It could also be determined using a combination of these approaches.</td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -152,11 +152,11 @@ How are the incentives for contributors determined? Are certain people being pri
 
 
 
-**Contribution incentive duration**
+**Contribution compensation duration**
 
 How long does someone receive compensation for their contributions?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Share holders receive perpetual incentive rewards. Workers might not receive shares and might only be rewarded a salary in the year they contribute instead of being rewarded over the long term.</td><td></td><td></td></tr><tr><td>Incentive rights could last anywhere from one to ten years or more. Capital and labour contributions would receive temporary incentive rights so that their contributions can be fully rewarded over the long term. Incentive rights would lapse once the contribution has been fully rewarded or after the incentive duration period.</td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Share holders receive perpetual compensation rights. Workers might not receive shares and might only be rewarded a salary in the year they contribute instead of being rewarded over the long term.</td><td></td><td></td></tr><tr><td>Compesnation rights could last anywhere from one to ten years or more. Capital and labour contributions would receive temporary compensation rights so that their contributions can be fully rewarded over the long term. Compensation rights would lapse once the contribution has been fully rewarded or after the incentive duration period.</td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -180,7 +180,7 @@ How meritocratic is the economic system? How can individuals act in their own se
 
 What is the moral justification of inequality? What is the reality of of economic inequality under this model?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>Belief that economic inequality is a natural and acceptable outcome of differing talents, efforts and choices. Justification of inequality as a necessary condition for incentivising hard work, innovation and risk-taking.<br></p><p>Capitalism can lead to excessive levels of inequality as contributions are not correlated with ownership, governance and incentive rights. Earlier contributions that are able to capture more shares than others are able to perpetually benefit from a smaller amount of contribution at the expense of future contributions. This create economic inequality that is not based on merit but is instead based on excessively rewarding earlier contributions made towards the organisation.</p></td><td></td><td></td></tr><tr><td><p>Contributionism advocates for organisations to self determine their own incentive structures. If the organisation is competitive then the justification for inequality is the same as capitalism where it is based on different talents, efforts and choices. Organisation that are more cooperative may handle incentives differently and decide to reduce the possibility of large differences in financial outcomes due to different collective values and preferences.<br></p><p>Contributionism only accepts economic inequality when the outcomes are actually based on differing talents, efforts and choices. This is achieved by respecting every contribution within an organisation so that top performing talent can be rewarded fairly regardless of when that contribution happened. Earlier and riskier contributions would still be highly rewarded but not excessively or at the expense and exploitation of future contributions. Inequality could still occur due to differences in organisation success and contribution value and impact.</p></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>Belief that economic inequality is a natural and acceptable outcome of differing talents, efforts and choices. Justification of inequality as a necessary condition for incentivising hard work, innovation and risk-taking.<br></p><p>Capitalism can lead to excessive levels of inequality as contributions are not correlated with ownership, governance and compensation rights. Earlier contributions that are able to capture more shares than others are able to perpetually benefit from a smaller amount of contribution at the expense of future contributions. This create economic inequality that is not based on merit but is instead based on excessively rewarding earlier contributions made towards the organisation.</p></td><td></td><td></td></tr><tr><td><p>Contributionism advocates for organisations to self determine their own incentive structures. If the organisation is competitive then the justification for inequality is the same as capitalism where it is based on different talents, efforts and choices. Organisation that are more cooperative may handle incentives differently and decide to reduce the possibility of large differences in financial outcomes due to different collective values and preferences.<br></p><p>Contributionism only accepts economic inequality when the outcomes are actually based on differing talents, efforts and choices. This is achieved by respecting every contribution within an organisation so that top performing talent can be rewarded fairly regardless of when that contribution happened. Earlier and riskier contributions would still be highly rewarded but not excessively or at the expense and exploitation of future contributions. Inequality could still occur due to differences in organisation success and contribution value and impact.</p></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -188,7 +188,7 @@ What is the moral justification of inequality? What is the reality of of economi
 
 How is the risk of starting new organisations rewarded? What outcome does this lead to?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>Early labour and financial capital invested into the organisation will often receive shares that give them perpetual governance and incentive rights.</p><p></p><p>Early contributions can receive an excessive reward due to shares giving them perpetual incentive rights.</p></td><td></td><td></td></tr><tr><td><p>The value of early contributions would be multiplied by a risk reward multiplier to ensure that earlier and riskier contributions are fairly rewarded. Any governance and incentive rights received would be temporary.</p><p></p><p>Someone could receive compensation that is many multiples higher due to their risk taking to start an organisation. The key difference is there is always a cap on the amount of compensation someone can receive for these contributions as this ensures that future contributions are respected. Risk must be fairly rewarded but not excessively and at the expense and exploitation of future contributions.</p></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p>Early labour and financial capital invested into the organisation will often receive shares that give them perpetual governance and compensation rights.</p><p></p><p>Early contributions can receive an excessive reward due to shares giving them perpetual compensation rights.</p></td><td></td><td></td></tr><tr><td><p>The value of early contributions would be multiplied by a risk reward multiplier to ensure that earlier and riskier contributions are fairly rewarded. Any governance and compensation rights received would be temporary.</p><p></p><p>Someone could receive compensation that is many multiples higher due to their risk taking to start an organisation. The key difference is there is always a cap on the amount of compensation someone can receive for these contributions as this ensures that future contributions are respected. Risk must be fairly rewarded but not excessively and at the expense and exploitation of future contributions.</p></td><td></td><td></td></tr></tbody></table>
 
 
 
@@ -216,7 +216,7 @@ How are contributions identified, encouraged and accepted?
 
 How are contributions recorded, verified and evaluated?
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Recording</strong> - Capitalists partially have an incentive to record contributions so that they can remove poor performers. They are not incentivised to fully reward other contributors as this would reduce the potential profit for shareholders. Contributors will often rely on the goodwill of the leadership for their contributions to get noticed or properly recorded.<br></p><p><strong>Verifying</strong> - Leadership will determine whether a process is introduced or not for properly verifying contributions. Contributors rely on the goodwill of the leadership for this to be done properly.<br></p><p><strong>Evaluating</strong> - Leadership will determine what process is used if any to evaluate worker contributions. Contributors rely on the goodwill of the leadership for their contributions to be properly evaluated to understand the value and impact that was generated.</p></td><td></td><td></td></tr><tr><td><p><strong>Recording</strong> - Contributionists are highly incentivised to record contributions accurately as this will be used to fully respect their contribution. The full value of the contribution can be rewarded over the long term if it is properly recorded. Contributors also benefit from their contributions being publicly available so they can benefit from the market being able to see their full value.<br></p><p><strong>Verifying</strong> - A contributionist organisation would introduce a process for verifying contributions to ensure people did what they say they did. This is an important part of respecting peoples contribution.<br></p><p><strong>Evaluating</strong> - A contributionist organisation would introduce a process for evaluating contributions that is either handled by those in leadership positions or collectively through a governance process.</p></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><p><strong>Recording</strong> - Shareholders partially have an incentive to record contributions so that they can remove poor performers. They are not incentivised to fully reward other contributors as this would reduce the potential profit for shareholders. Contributors will often rely on the goodwill of the leadership for their contributions to get noticed or properly recorded.<br></p><p><strong>Verifying</strong> - Leadership will determine whether a process is introduced or not for properly verifying contributions. Contributors rely on the goodwill of the leadership for this to be done properly.<br></p><p><strong>Evaluating</strong> - Leadership will determine what process is used if any to evaluate worker contributions. Contributors rely on the goodwill of the leadership for their contributions to be properly evaluated to understand the value and impact that was generated.</p></td><td></td><td></td></tr><tr><td><p><strong>Recording</strong> - Contributionists are highly incentivised to record contributions accurately as this will be used to fully respect their contribution. The full value of the contribution can be rewarded over the long term if it is properly recorded. Contributors also benefit from their contributions being publicly available so they can benefit from the market being able to see their full value.<br></p><p><strong>Verifying</strong> - A contributionist organisation would introduce a process for verifying contributions to ensure people did what they say they did. This is an important part of respecting peoples contribution.<br></p><p><strong>Evaluating</strong> - A contributionist organisation would introduce a process for evaluating contributions that is either handled by those in leadership positions or collectively through a governance process.</p></td><td></td><td></td></tr></tbody></table>
 
 
 
